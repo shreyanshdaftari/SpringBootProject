@@ -27,6 +27,3 @@ Select the project and click Finish.
 Run the Application:
 Open folder and click on run icon.
 You can use Postman app to test the porject.
-
-Here is the project's GitHub link :
-https://github.com/shreyanshdaftari/SpringBootProject/tree/my-new-branch
